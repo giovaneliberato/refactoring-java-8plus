@@ -4,8 +4,12 @@ Code for the talk ["Refactoring with Java Functional API"](https://pt.slideshare
 ### Project structure
 
 Problematic versions are under `counter_example`
+
 Refactored versions are under `example`
+
 Shared models are under `models`, refactored models are under `example/models`
+
+------------------------------------
 
 [src/predicates](https://github.com/giovaneliberato/refactoring-java-8plus/tree/master/src/predicates) holds examples for composing rules with predicates
 
