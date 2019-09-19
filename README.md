@@ -10,7 +10,7 @@ Shared models are under `models`, refactored models are under `example/models`
 [src/predicates](https://github.com/giovaneliberato/refactoring-java-8plus/tree/master/src/predicates) holds examples for composing rules with predicates
 
 
-[src/inheritance](https://github.com/giovaneliberato/refactoring-java-8plus/tree/master/src/inheritance) holds examples for alternatives to implementing functional interfaces
+[src/functional_interface](https://github.com/giovaneliberato/refactoring-java-8plus/tree/master/src/functional_interface) holds examples for alternatives to implementing functional interfaces
 
 [src/optionals](https://ithub.com/giovaneliberato/refactoring-java-8plus/tree/master/src/optionals) holds examples for best practices of the Optional class
 
